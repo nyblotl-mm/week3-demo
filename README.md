@@ -2,3 +2,4 @@
 
 ## feachers
 - learning github workflows
+- Command line mastery
